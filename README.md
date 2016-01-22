@@ -1,7 +1,7 @@
 # GeneralAssembly_CourseProject
 
-##Question
-Using Kaggle dataset [Acquire Valued Shoppers Challenge](https://www.kaggle.com/c/acquire-valued-shoppers-challenge) can you predict which shoppers will become repeat buyers after offering incentives.
+##Problem
+Using Kaggle dataset [Acquire Valued Shoppers Challenge](https://www.kaggle.com/c/acquire-valued-shoppers-challenge) can you predict which shoppers will become repeat buyers after offering incentives?
 
 ##Motivation
 Companies spend enourmous amounts of money on sales promotions with the intent to attract customers to become loyal to the product and become repeat buyers. However, most of the time there are <em>one-time deal hunters</em>. Producing a predictive model can provide targeted and personalized promotions which will not only reduce the promotional costs but also increase the return on investment
