@@ -28,4 +28,9 @@ Engineering Features
 * Quantity bought from brand
 * Quantity bought from chain
 
-
+Additional Features not yet added
+* Quantity bought from Category + company + brand + chain
+* Total Dollar Value bought from category
+* Total Dollar Value bought from company
+* Total Dollar Value bought from brand
+* Total Dollar Value bought from chain
