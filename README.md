@@ -22,15 +22,9 @@ Inital Features
 * offervalue
 * brand
 
-Engineering Features
-* Quantity bought from category
-* Quantity bought from company
-* Quantity bought from brand
-* Quantity bought from chain
+Features Currently added
+* Quantity bought from category, company,brand and chain
 
 Additional Features not yet added
 * Quantity bought from Category + company + brand + chain
-* Total Dollar Value bought from category
-* Total Dollar Value bought from company
-* Total Dollar Value bought from brand
-* Total Dollar Value bought from chain
+* Total Dollar Value bought from category, company,brand and chain
