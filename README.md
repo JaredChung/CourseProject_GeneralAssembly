@@ -28,3 +28,12 @@ Features Currently added
 Additional Features not yet added
 * Quantity bought from Category + company + brand + chain
 * Total Dollar Value bought from category, company,brand and chain
+* how many visits in marketshare of each product in the category
+* share of customers who bought the product/category
+* average price for product
+* differences in seasonal spending per product
+* general repeat-buy-probabilities for a product based on historical repeat buys
+* how much competition a product faces
+* how cheap a product is compared to other products
+* time since customers first transaction
+* whether user had returned the product before
