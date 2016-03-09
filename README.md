@@ -28,7 +28,7 @@ Features added
 * Quantity bought from category, company,brand and chain
 * Total Dollar Value bought from category, company,brand and chain
 * Quantity bought from Category + company + brand + chain
-* 
+* Purchasing history in the last 30,60,90,180 days from category, company,brand and chain
 * 
 
 Additional Features not yet added
