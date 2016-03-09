@@ -23,10 +23,12 @@ Inital Features
 * brand
 
 Features added
-* Quantity bought from category, company,brand and chain
-* Quantity bought from Category + company + brand + chain
-* Total Dollar Value bought from category, company,brand and chain
 * Total Amount Spent by each Customer
+* Frequency bought from category, company,brand and chain
+* Quantity bought from category, company,brand and chain
+* Total Dollar Value bought from category, company,brand and chain
+* Quantity bought from Category + company + brand + chain
+* 
 * 
 
 Additional Features not yet added
