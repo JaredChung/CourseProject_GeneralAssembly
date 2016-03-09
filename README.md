@@ -22,10 +22,12 @@ Inital Features
 * offervalue
 * brand
 
-Features Currently added
+Features added
 * Quantity bought from category, company,brand and chain
 * Quantity bought from Category + company + brand + chain
 * Total Dollar Value bought from category, company,brand and chain
+* Total Amount Spent by each Customer
+* 
 
 Additional Features not yet added
 * how many visits in marketshare of each product in the category
