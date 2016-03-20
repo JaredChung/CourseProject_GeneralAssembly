@@ -1,4 +1,4 @@
-# GeneralAssembly_CourseProject
+# GeneralAssembly CourseProject
 
 ##Problem
 Using Kaggle dataset [Acquire Valued Shoppers Challenge](https://www.kaggle.com/c/acquire-valued-shoppers-challenge) can you predict which shoppers will become a repeat buyer after offering incentives?
